@@ -1,5 +1,1 @@
-# -apnacollege-demo
-this is my first git repository
-<br>
-author - shradha khapra
-author - shradha (apna COllege)
+#this is my local repo
